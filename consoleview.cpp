@@ -1,5 +1,5 @@
 #include "consoleview.h"
-
+// first commit test
 ConsoleView::ConsoleView(): 
 	_currentChoice(EXIT_CHOICE)
 {
